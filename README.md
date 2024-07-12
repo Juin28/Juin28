@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juin28" alt="juin28" /></a> </p>
 
-- 🌱 I’m currently learning **everything**
-
 - 👨‍💻 All of my projects are available at [https://juin.is-a.dev/](https://juin.is-a.dev/)
 
 - 📫 How to reach me **tanjuinlong@gmail.com**
