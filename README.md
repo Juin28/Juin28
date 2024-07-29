@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juin28&label=Profile%20views&color=0e75b6&style=flat" alt="juin28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juin28" alt="juin28" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juin28&rank=-C" alt="juin28" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://juin.is-a.dev/](https://juin.is-a.dev/)
 
