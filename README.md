@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://juin.is-a.dev/](https://juin.is-a.dev/)
 
-- 📫 How to reach me **tanjuinlong@gmail.com**
+- 📫 How to reach me **juintan28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
